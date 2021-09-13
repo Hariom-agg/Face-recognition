@@ -1,0 +1,28 @@
+body
+{
+   background-color: skyblue ; 
+   color: black;
+}
+
+.heding
+{
+    width: 80%;
+    font-size: medium;
+}
+
+#camera
+{
+    border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_family_members,#result_family_member_name,#result_family_member_accuracy
+{
+ color: black;
+}
+
+#family
+{
+    width: 1000px;
+}
